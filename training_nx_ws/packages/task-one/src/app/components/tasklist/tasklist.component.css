@@ -1,0 +1,13 @@
+.sm-table {
+    width: 85%;
+    /* DISPLAY: flex; */
+    /* ALIGN-ITEMS: center; */
+    /* JUSTIFY-CONTENT: space-between; */
+    margin: auto;
+    /* border-radius: 87px; */
+}
+
+.p-datatable-wrapper {
+    border-radius: 5px !important;
+}
+
